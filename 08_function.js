@@ -31,3 +31,20 @@ let fun4 = d => d*d*d
 console.log(fun4(78))
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
